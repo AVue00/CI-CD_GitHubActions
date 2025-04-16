@@ -21,7 +21,15 @@ Here is a image of all three branches: main, develop and feature.
 
 When a change is made and pushed to the feature branch this is what it'll look like and it can be merged if the tests passes.
 
+![MergeReady-feature](images/feature-to-develop-merge-ready.png)
+
+![Passed-Tests](images/passed-test.png)
+
 When the merge from feature branch to develop branch has been accepted and executed. A request from develop to main can be made and when it is verified and merged the render website will be deployed.
+
+![MergeRead-deploy](images/main-merge-ready.png)
+
+![Deployed](images/deployed.png)
 
 ## Credits
 
